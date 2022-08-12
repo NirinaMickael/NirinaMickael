@@ -46,10 +46,5 @@ You can click the Preview link to take a look at your changes.
         <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirinaMickael&theme=tokyonight&layout=compact&langs_count=5" alt="top languages"></td>
     </tr>
 </table>
-<hr>
-    <div>
-        <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirinaMickael&theme=tokyonight&layout=compact&langs_count=5" alt="top languages"></div>
-            <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NirinaMickael&show_icons=true&locale=en" alt="Nirina" /></div>
-        <div align="center"> <img src="https://komarev.com/ghpvc/?username=NirinaMickael&label=Profile%20views&color=0e75b6&style=flat" alt="Nirina" /> </div>
-    </div>
+
 <hr>
